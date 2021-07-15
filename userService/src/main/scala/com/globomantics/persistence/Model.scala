@@ -1,5 +1,6 @@
 package com.globomantics.persistence
 
+
 import java.util.UUID
 
 import akka.http.scaladsl.marshallers.sprayjson._
